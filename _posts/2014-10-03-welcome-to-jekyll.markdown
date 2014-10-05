@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+author: "octref"
 date:   2014-10-03 10:27:11
 categories: jekyll update
 ---
