@@ -20,4 +20,4 @@ Pay before Sep, 15th to avoid a late fee of $10.
 **[Seminar schedules](/seminar/)**
 
 ### Location
-Gymnastic Room at 2nd floor of Teagle Hall.
+Gymnastic Room, 2nd floor of Teagle Hall.
