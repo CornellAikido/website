@@ -13,4 +13,4 @@ Phone: 257-7658
 Email Mark if you wish to be added to our mailing list.
 
 ### Web
-[Pine Wu](octref@gmail.com)
+[Pine Wu](mailto:octref@gmail.com)

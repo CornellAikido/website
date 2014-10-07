@@ -5,7 +5,7 @@ permalink: /instructor/
 ---
 
 <div class="instructor-block clearfix">
-  <img class="instructor-image" src="/assets/img/instructor/katagiri.jpg" />
+  <img class="instructor-image" src="../assets/img/instructor/katagiri.jpg" />
   <h3>Yukiko Katagiri</h3>
   <b>6th-dan, Shido-in, Chief Instructor of Cornell Aikido Club</b>
   <p class="instructor-intro">
@@ -15,7 +15,7 @@ permalink: /instructor/
 </div>
 
 <div class="instructor-block clearfix">
-  <img class="instructor-image" src="/assets/img/instructor/larry.jpg" height="200" width="200" />
+  <img class="instructor-image" src="../assets/img/instructor/larry.jpg" height="200" width="200" />
   <h3>Larry Bieri</h3>
   <b>7th-dan, Shihan, Chief Instructor of Finger Lakes Aikido</b>
   <p class="instructor-intro">
@@ -24,7 +24,7 @@ permalink: /instructor/
 </div>
 
 <div class="instructor-block clearfix">
-  <img class="instructor-image" src="/assets/img/instructor/mark.jpg" height="200" width="200" />
+  <img class="instructor-image" src="../assets/img/instructor/mark.jpg" height="200" width="200" />
   <h3>Mark Reichert</h3>
   <b>4th-dan, Fuku-Shido-in</b>
   <p class="instructor-intro">

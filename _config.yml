@@ -2,8 +2,8 @@
 title: Cornell Aikido Club
 email: octref@gmail.com
 description: "Cornell University Aikido Club Website"
-baseurl: ""
-url: "http://yourdomain.com"
+baseurl: "/CornellAikido"
+url: "https://octref.github.io"
 
 # Build settings
 markdown: kramdown
