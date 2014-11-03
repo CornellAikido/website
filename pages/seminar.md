@@ -10,7 +10,7 @@ permalink: /seminar/
 Fall seminar with guest instructor Zenko Okimura, Shihan,
 of [Aikido Delaware Aikikai](http://www.aikidoda.org/){:target="_blank"}.
 
-#### Woodstock, Oct 18th
+#### Woodstock, Oct 18
 Instructor: Laura Jacobs Pavlick and Harvey Konigsberg  
 Time: 1:00 - 5:00 pm, potluck to follow
 
