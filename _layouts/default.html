@@ -1,17 +1,15 @@
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
 
-    <body>
+  <body>
+    {% include masthead.html %}
 
-    {% include header.html %}
+    <hr>
 
-    <div class="page-content">
-      <div class="wrap">
+    <section class="main">
       {{ content }}
-      </div>
-    </div>
+    </section>
+  </body>
 
-    </body>
 </html>

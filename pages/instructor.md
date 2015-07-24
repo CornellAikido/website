@@ -1,33 +1,61 @@
 ---
-layout: page
-title: Instructor
 permalink: /instructor/
 ---
 
-<div class="instructor-block clearfix">
-  <img class="instructor-image" src="../assets/img/instructor/katagiri.jpg" />
-  <h3>Yukiko Katagiri</h3>
-  <b>6th-dan, Shido-in, Chief Instructor of Cornell Aikido Club</b>
-  <p class="instructor-intro">
-    Yukiko Katagiri Sensei is 6th dan chief instructor at Cornell Aikido Club
-    with over 30 years in Aikido.  Katagiri Sensei sometimes assists at Finger Lakes Aikido classes.
-  </p>
+<div class="instructor">
+  <div class="instructor-left">
+    <img class="instructor-image" src="../assets/img/instructor/katagiri.jpg" height="300" width="300">
+  </div>
+  <div class="instructor-right">
+    <h2>Yukiko Katagiri</h2>
+    <b>6th-dan, Shihan, Chief Instructor of Cornell Aikido Club</b>
+    <p>
+      Yukiko Katagiri Sensei is 6th dan chief instructor at Cornell Aikido Club
+      with over 30 years in Aikido.  Katagiri Sensei sometimes assists at Finger Lakes Aikido classes.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec metus lectus, consectetur non
+      lectus nec, sodales elementum nisl. Etiam eget leo eget nibh hendrerit interdum nec sit amet
+      lectus. Donec lobortis massa sed mi porttitor, eget volutpat justo iaculis. Vestibulum porttitor
+      molestie molestie.
+    </p>
+  </div>
 </div>
 
-<div class="instructor-block clearfix">
-  <img class="instructor-image" src="../assets/img/instructor/larry.jpg" height="200" width="200" />
-  <h3>Larry Bieri</h3>
-  <b>7th-dan, Shihan, Chief Instructor of Finger Lakes Aikido</b>
-  <p class="instructor-intro">
-    A great sensei who has been to Japan and learned a lots of Samurai techniques.
-  </p>
+<div class="instructor">
+  <div class="instructor-left">
+    <img class="instructor-image" src="../assets/img/instructor/larry.jpg" height="300" width="300">
+  </div>
+  <div class="instructor-right">
+    <h2>Larry Bieri</h2>
+    <b>7th-dan, Shihan, Chief Instructor of Finger Lakes Aikido</b>
+    <p>
+      A great sensei who has been to Japan and learned a lots of Samurai techniques.
+    </p>
+    <p>
+      Nulla quis enim libero. Cras at erat diam. Nulla sodales at lectus in congue. Suspendisse
+      pretium metus ut elit malesuada, a tincidunt ante dapibus. Class aptent taciti sociosqu ad
+      litora torquent per conubia nostra, per inceptos himenaeos. Quisque pharetra lorem sed nisi
+      tempor tempus quis a massa. 
+    </p>
+  </div>
 </div>
 
-<div class="instructor-block clearfix">
-  <img class="instructor-image" src="../assets/img/instructor/mark.jpg" height="200" width="200" />
-  <h3>Mark Reichert</h3>
-  <b>4th-dan, Fuku-Shido-in</b>
-  <p class="instructor-intro">
-    Special Mix ^_^
-  </p>
+<div class="instructor">
+  <div class="instructor-left">
+    <img class="instructor-image" src="../assets/img/instructor/mark.jpg" height="300" width="300">
+  </div>
+  <div class="instructor-right">
+    <h2>Mark Reichert</h2>
+    <b>4th-dan, Fuku-Shido-in</b>
+    <p class="instructor-intro">
+      A great sensei who has a weird sense of humor.
+    </p>
+    <p>
+      Mauris quis sapien vel ante cursus vehicula vel semper dui. Donec consequat neque a
+      blandit accumsan. Proin accumsan gravida velit, quis semper justo mattis ac. Donec at
+      vulputate leo. Maecenas ornare venenatis orci, sed ornare ex euismod vitae. In vel
+      pulvinar erat. Sed nec cursus magna.
+    </p>
+  </div>
 </div>

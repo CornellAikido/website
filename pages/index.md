@@ -1,17 +1,8 @@
 ---
-layout: page
 permalink: /
 ---
 
-<div class="home">
-
-  <h2 class="index-header">Welcome to Cornell Aikido Club!</h2>
-
-</div>
-
-<hr />
-
-### Newcomers
+## Newcomers
 Our club offers weekly Aikido classes for any level.  
 Here you can learn more about:
 
@@ -20,14 +11,10 @@ Here you can learn more about:
 - The [instructors](instructor)
 - [Seminars](seminar) we are hosting / attending
 
-### Schedule
+## Schedule
 - Tu & Th: 7:00 - 8:30 pm
 - Sa & Su: 12:30 - 2:00 pm
 
-### Announcement
+## Announcement
 
 Mark Reichert sensei is on a leave during November.
-
-### Upcoming Events
-
-{% include upcoming_seminar.md %}

@@ -1,10 +1,17 @@
 # Site settings
 title: Cornell Aikido Club
-email: octref@gmail.com
-description: "Cornell University Aikido Club Website"
 baseurl: "/CornellAikido"
-url: "https://octref.github.io"
 
 # Build settings
-markdown: kramdown
 permalink: pretty
+
+# Default
+defaults:
+  -
+    scope:
+      path: "pages"
+    values:
+      layout: "default"
+
+sass:
+  sass_dir: "_scss"

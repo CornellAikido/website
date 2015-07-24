@@ -1,16 +1,19 @@
 ---
-layout: page
-title: Contact
 permalink: /contact/
 ---
 
-### Instructor
-[Yukiko Katagiri](mailto:yk43@cornell.edu)  
-Phone: 257-7930  
+## Instructor  
 
-[Mark Reichert](mailto:markr@lightlink.com)  
-Phone: 257-7658  
-Email Mark if you wish to be added to our mailing list.
+### Yukiko Katagiri  
+Email: [yk43@cornell.edu](mailto:yk43@cornell.edu)  
+Phone: 607-257-7930  
 
-### Web
-[Pine Wu](mailto:octref@gmail.com)
+### Mark Reichert  
+Email: [markr@lightlink.com](mailto:markr@lightlink.com)  
+Phone: 607-257-7658  
+Email Mark if you want to subscribe to our mailing list.
+
+## Web
+
+###Pine Wu
+Email: [zw299@cornell.edu](mailto:zw299@cornell.edu)

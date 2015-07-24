@@ -1,0 +1,15 @@
+.instructor {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.instructor-left {
+  margin: 20px 30px 20px 0;
+}
+
+.instructor-right {
+  h2 {
+    padding-bottom: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+}
