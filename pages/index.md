@@ -17,6 +17,9 @@ Here you can learn more about:
 
 ## Announcement
 
+**08/20/2015**  
+Our regular practice starts!
+
 **08/10/2015**  
 On **08/16**, we'll have our club's annual summer picnic at Treman Park.  
 Come and have fun with us!
