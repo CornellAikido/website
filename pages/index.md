@@ -17,4 +17,12 @@ Here you can learn more about:
 
 ## Announcement
 
-Mark Reichert sensei is on a leave during November.
+**08/10/2015**  
+On **08/16**, we'll have our club's annual summer picnic at Treman Park.  
+Come and have fun with us!
+
+**07/25/2015**  
+Thursday class is cancelled, as Katagiri sensei is off to the Aikido summer-camp.
+
+**07/20/2015**  
+Mark Reichert sensei is on a leave to Italy.
