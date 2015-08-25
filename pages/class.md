@@ -7,11 +7,10 @@ We offer beginners' class, and accept new members at any time.
 Occasionally, we host seminars at Cornell or go to other seminars.  
 
 ## Fee
-- $60 for fall/spring semester  
-- $40 for summer
+- $70 for 2015 fall semester. $60 if paid before Aug, 30th.
 
 ## Schedule
-- Tu & Th: 7:00 - 8:30 pm
+- Tu & Th: 6:30 - 8:00 pm
 - Sa & Su: 12:30 - 2:00 pm
 
 ## Location
