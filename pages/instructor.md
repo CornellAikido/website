@@ -49,13 +49,13 @@ permalink: /instructor/
     <h2>Mark Reichert</h2>
     <b>4th-dan, Fuku-Shido-in</b>
     <p class="instructor-intro">
-      A great sensei who has a weird sense of humor.
+      Mark sensei has over 25 years' experience practicing Aikido, and teaches regularly
+      at Cornell Aikido Club and Finger Lakes Aikido.
     </p>
     <p>
-      Mauris quis sapien vel ante cursus vehicula vel semper dui. Donec consequat neque a
-      blandit accumsan. Proin accumsan gravida velit, quis semper justo mattis ac. Donec at
-      vulputate leo. Maecenas ornare venenatis orci, sed ornare ex euismod vitae. In vel
-      pulvinar erat. Sed nec cursus magna.
+      Mark started his training in aikido in Ithaca in 1989. In addition to training
+      under instructors of the United States Aikido Federation, Mark has focused
+      on the instruction of Hiroshi Tada Sensei, 9th dan.
     </p>
   </div>
 </div>
