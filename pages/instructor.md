@@ -8,16 +8,9 @@ permalink: /instructor/
   </div>
   <div class="instructor-right">
     <h2>Yukiko Katagiri</h2>
-    <b>6th-dan, Shihan, Chief Instructor of Cornell Aikido Club</b>
+    <div class="instructor-short-bio">6th-dan, Shihan, Chief Instructor of Cornell Aikido Club</div>
     <p>
-      Yukiko Katagiri Sensei is 6th dan chief instructor at Cornell Aikido Club
-      with over 30 years in Aikido.  Katagiri Sensei sometimes assists at Finger Lakes Aikido classes.
-    </p>
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec metus lectus, consectetur non
-      lectus nec, sodales elementum nisl. Etiam eget leo eget nibh hendrerit interdum nec sit amet
-      lectus. Donec lobortis massa sed mi porttitor, eget volutpat justo iaculis. Vestibulum porttitor
-      molestie molestie.
+      Yukiko Katagiri Sensei set out on her Aikido journey at Hombu Dojo (Aikido World Headquarters) in Tokyo, 1978.  Since then she has trained under many Master Teachers of Aikido both in Japan and in the US.  She began teaching the art at the Cornell Aikido Club in 1985 as the Chief Instructor.  Currently she holds a sixth degree black belt and the title of Shihan of the United States Aikido Federation and the International Aikido Federation.  Katagiri sensei also teaches Japanese language courses at Cornell University.
     </p>
   </div>
 </div>
@@ -28,7 +21,7 @@ permalink: /instructor/
   </div>
   <div class="instructor-right">
     <h2>Larry Bieri</h2>
-    <b>7th-dan, Shihan, Chief Instructor of Finger Lakes Aikido</b>
+    <div class="instructor-short-bio">7th-dan, Shihan, Chief Instructor of Finger Lakes Aikido</div>
     <p>
       A great sensei who has been to Japan and learned a lots of Samurai techniques.
     </p>
@@ -47,7 +40,7 @@ permalink: /instructor/
   </div>
   <div class="instructor-right">
     <h2>Mark Reichert</h2>
-    <b>4th-dan, Fuku-Shido-in</b>
+    <div class="instructor-short-bio">4th-dan, Fuku-Shido-in</div>
     <p class="instructor-intro">
       Mark sensei has over 25 years' experience practicing Aikido, and teaches regularly
       at Cornell Aikido Club and Finger Lakes Aikido.
