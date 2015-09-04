@@ -2,12 +2,13 @@
 permalink: /class/
 ---
 
+## Class
 We offer beginners' class, and accept new members at any time.
 
 Occasionally, we host seminars at Cornell or go to other seminars.  
 
 ## Fee
-- $70 for 2015 fall semester. $60 if paid before Aug, 30th.
+- $70 for 2015 fall semester.
 
 ## Schedule
 - Tu & Th: 6:30 - 8:00 pm

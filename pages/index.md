@@ -19,8 +19,8 @@ Here you can learn more about:
 - Tu & Th: 6:30 - 8:00 pm
 - <strike>Sa & Su: 12:30 - 2:00 pm</strike>
 
+<div class="update" markdown="1">
 ## Announcement
-
 **08/24/2015**  
 In the first week, we'll have practice on **08/25 and 08/27**, **6:30**
 at Teagle Hall.  
@@ -30,3 +30,4 @@ the hallway.
 **08/10/2015**  
 On **08/16**, we'll have our club's annual summer picnic at Treman Park.  
 Come and have fun with us!
+</div>

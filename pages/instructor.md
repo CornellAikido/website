@@ -36,7 +36,7 @@ permalink: /instructor/
 
 <div class="instructor">
   <div class="instructor-left">
-    <img class="instructor-image" src="../assets/img/instructor/mark.jpg" height="300" width="300">
+    <img class="instructor-image" src="../assets/img/instructor/Mark.png" height="300" width="300">
   </div>
   <div class="instructor-right">
     <h2>Mark Reichert</h2>

@@ -1,0 +1,65 @@
+@media only screen and (max-device-width: 668px) {
+  body {
+    max-width: none;
+    font-size: 26px;
+  }
+
+  hr {
+    border-top: 5px solid #eee;
+    border-bottom: 5px solid #fff;
+  }
+
+  br {
+    line-height: 1;
+  }
+
+  h2 {
+    margin: .5em 0 .2em 0;
+    font-size: 50px;
+    font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+  }
+
+  h3 {
+    margin: 0;
+    margin-top: .5em;
+    font-size: 28px;
+    font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  .masthead h1 {
+    font-size: 60px;
+  }
+
+  .site-nav {
+    li {
+      font-size: 44px;
+      padding: 0;
+      margin: 0;
+    }
+
+    ul {
+      padding: 0;
+      margin: 0;
+
+      display: flex;
+      flex-flow: row nowrap;
+      justify-content: space-around;
+    }
+  }
+
+  .update {
+    p {
+      margin-bottom: 2em;
+
+      strong:first-child {
+        margin-top: 1em;
+      }
+    }
+  }
+}
