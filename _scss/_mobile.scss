@@ -98,3 +98,11 @@
     font-weight: 500;
   }
 }
+
+@media only screen and (max-device-width: 668px) {
+  footer {
+    p {
+      font-size: 50px;
+    }
+  }
+}
