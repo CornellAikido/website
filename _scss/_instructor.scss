@@ -8,12 +8,17 @@
 
 .instructor-image {
   margin: 20px 30px 20px 0;
+  img {
+    border: 2px solid #eee;
+    border-radius: 5px;
+  }
 }
 
 .instructor-text {
   h2 {
     padding-bottom: 8px;
     border-bottom: 1px solid #ddd;
+    margin: .5em 0;
   }
 
   p:first-of-type {
