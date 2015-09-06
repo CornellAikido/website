@@ -1,20 +1,26 @@
 .instructor {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
   margin-bottom: 30px;
 }
 
-.instructor-left {
+.instructor-image {
   margin: 20px 30px 20px 0;
 }
 
-.instructor-right {
+.instructor-text {
   h2 {
     padding-bottom: 8px;
     border-bottom: 1px solid #ddd;
+  }
+
+  p:first-of-type {
+    margin-top: 10px;
   }
 }
 
 .instructor-short-bio {
   font-weight: bold;
-  margin-bottom: 10px;
 }

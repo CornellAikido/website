@@ -3,12 +3,13 @@ permalink: /instructor/
 ---
 
 <div class="instructor">
-  <div class="instructor-left">
-    <img class="instructor-image" src="../assets/img/instructor/katagiri.jpg" height="300" width="300">
+  <div class="instructor-image">
+    <img src="../assets/img/instructor/katagiri.jpg" height="300" width="300">
   </div>
-  <div class="instructor-right">
+  <div class="instructor-text">
     <h2>Yukiko Katagiri</h2>
-    <div class="instructor-short-bio">6th-dan, Shihan, Chief Instructor of Cornell Aikido Club</div>
+    <div class="instructor-short-bio">6th-dan, Shihan</div>
+    <div class="instructor-short-bio">Chief Instructor of Cornell Aikido Club</div>
     <p>
       Yukiko Katagiri Sensei set out on her Aikido journey at Hombu Dojo (Aikido World Headquarters) in Tokyo, 1978.  Since then she has trained under many Master Teachers of Aikido both in Japan and in the US.  She began teaching the art at the Cornell Aikido Club in 1985 as the Chief Instructor.  Currently she holds a sixth degree black belt and the title of Shihan of the United States Aikido Federation and the International Aikido Federation.  Katagiri sensei also teaches Japanese language courses at Cornell University.
     </p>
@@ -16,12 +17,13 @@ permalink: /instructor/
 </div>
 
 <div class="instructor">
-  <div class="instructor-left">
-    <img class="instructor-image" src="../assets/img/instructor/larry.jpg" height="300" width="300">
+  <div class="instructor-image">
+    <img src="../assets/img/instructor/larry.jpg" height="300" width="300">
   </div>
-  <div class="instructor-right">
+  <div class="instructor-text">
     <h2>Larry Bieri</h2>
-    <div class="instructor-short-bio">7th-dan, Shihan, Chief Instructor of Finger Lakes Aikido</div>
+    <div class="instructor-short-bio">7th-dan, Shihan</div>
+    <div class="instructor-short-bio">Chief Instructor of Finger Lakes Aikido</div>
     <p>
       A great sensei who has been to Japan and learned a lots of Samurai techniques.
     </p>
@@ -35,12 +37,13 @@ permalink: /instructor/
 </div>
 
 <div class="instructor">
-  <div class="instructor-left">
-    <img class="instructor-image" src="../assets/img/instructor/Mark.png" height="300" width="300">
+  <div class="instructor-image">
+    <img src="../assets/img/instructor/Mark.png" height="300" width="300">
   </div>
-  <div class="instructor-right">
+  <div class="instructor-text">
     <h2>Mark Reichert</h2>
     <div class="instructor-short-bio">4th-dan, Fuku-Shido-in</div>
+    <div class="instructor-short-bio">Instructor at Cornell Aikido Club</div>
     <p class="instructor-intro">
       Mark sensei has over 25 years' experience practicing Aikido, and teaches regularly
       at Cornell Aikido Club and Finger Lakes Aikido.
