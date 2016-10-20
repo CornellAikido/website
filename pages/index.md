@@ -30,4 +30,6 @@ the hallway.
 **08/10/2015**  
 On **08/16**, we'll have our club's annual summer picnic at Treman Park.  
 Come and have fun with us!
+
+Last updated 10/20/16
 </div>
