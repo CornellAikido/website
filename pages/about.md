@@ -10,10 +10,13 @@ practice both against unarmed opponents and with traditional martial arts weapon
 
 Aikido can be roughly translated as "the way of unifying life energy."
 
-## About the Club
-The Cornell Aikido Club is a non-credit university sports club.
+[Click here](/about-aikido/) for a more in-depth explanation of the history and principles of Aikido.
 
-We are affiliated with the [United States Aikido Federation (USAF)](http://www.usaikifed.com/){:target="_blank"} and Aikido Headquarters Hombu Dojo in Tokyo, Japan.
+## About the Club
+The Cornell Aikido Club is a non-credit university sports club. We are affiliated with
+the [United States Aikido Federation (USAF)](http://www.usaikifed.com/){:target="_blank"}
+and [Hombu Dojo](http://www.aikikai.or.jp/eng/index.html) (international Aikido
+headquarters) in Tokyo, Japan.
 
 ## About this Website
 This website was designed by [Pine Wu](https://github.com/octref)

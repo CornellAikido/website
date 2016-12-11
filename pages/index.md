@@ -2,7 +2,7 @@
 permalink: /
 ---
 
-## Welcome!
+# Welcome!
 The Cornell Aikido Club offers Aikido instruction and training for all levels.
 New members are accepted year-round! If you are new to Aikido or just want to
 brush up on the basics, the club offers a beginner's class at the beginning of
@@ -20,7 +20,9 @@ outside for them to finish.
 Club members are additionally eligible for additional classes at [Finger Lakes
 Aikido](http://www.fingerlakesaikido.com/) free of charge!
 
-## Announcements
+<br>
+
+# Announcements
 12/10/16: Test announcement
 
 Last updated 10/20/16
