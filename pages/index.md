@@ -8,21 +8,24 @@ New members are accepted year-round! If you are new to Aikido or just want to
 brush up on the basics, the club offers a beginner's class at the beginning of
 every fall semester.
 
-Our regular weekly hours are:
+Normally, our practice times are:
 
 - Tuesday and Thursday 7:00 - 8:30 pm
 - Saturday and Sunday 12:30 - 2:00 pm
 
-Classes are held in [Teagle Hall](http://bit.ly/2hfNhqD)'s gymnasium on the second floor. If you arrive
-early and see the gymnastics team is still using the gymnasium, please wait
-outside for them to finish.
+but please check the [announcements](#announcements) below for irregular hours and
+schedule changes. Classes are held in [Teagle Hall](https://www.cornell.edu/about/maps/?loc=Teagle%20Hall)'s
+gymnasium on the second floor. Please arrive 5 minutes early to help set up the
+room and warm up. If you arrive even earlier and see the gymnastics team is
+still using the gymnasium, please wait outside for them to finish.
 
-Club members are additionally eligible for additional classes at [Finger Lakes
+Additionally, club members are eligible for classes at [Finger Lakes
 Aikido](http://www.fingerlakesaikido.com/) free of charge!
 
 <br>
+<span id="announcements"/>
 
 # Announcements
-12/10/16: Test announcement
 
-Last updated 10/20/16
+- **Thu. 12/22/16:** Tonight's class is the last one of 2016. Classes will still
+be offered during the holidays at Finger Lakes Aikido on Mondays and Fridays.

@@ -4,13 +4,14 @@ permalink: /about/
 
 ## What is Aikido?
 Aikido (合気道) is a moderen Japanese martial art which emphasizes blending
-and redirecting the force of an opponent's attack. Techniques taught are primarily
-defensive, and include a variety of joint locks and timing throws. Students
+and redirecting the force of an opponent's attack. Techniques are primarily
+defensive and include a variety of joint locks and timing throws. Students
 practice both against unarmed opponents and with traditional martial arts weapons.
 
 Aikido can be roughly translated as "the way of unifying life energy."
 
-[Click here](/about-aikido/) for a more in-depth explanation of the history and principles of Aikido.
+[Click here](http://www.usaikifed.com/about/aikido/) for a more in-depth
+explanation of the history and principles of Aikido.
 
 ## About the Club
 The Cornell Aikido Club is a non-credit university sports club. We are affiliated with
