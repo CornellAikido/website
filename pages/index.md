@@ -42,6 +42,7 @@ for the annual federation dues. (The total cost is $45, but the club will
 contribute $25.)
 
 I hope to see you on the mats soon!
+
 - **Sat. 01/21/17:** Starting on Tuesday (1/24), our Tue/Thu practices will resume, at their
 normal time: 7:00-8:30pm.
 - **Thu. 12/22/16:** Tonight's class is the last one of 2016. Classes will still
