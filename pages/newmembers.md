@@ -10,7 +10,7 @@ not answered here, please [contact us](/contact/).
 
 **What is Aikido?**
 
-Aikido (合気道) is a moderen Japanese martial art which emphasizes blending
+Aikido (合気道) is a modern Japanese martial art which emphasizes blending
 and redirecting the force of an opponent's attack. Techniques taught are primarily
 defensive, and include a variety of joint locks and timing throws. Students
 practice both against unarmed opponents and with traditional martial arts weapons.
