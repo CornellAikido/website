@@ -27,7 +27,7 @@ Aikido](http://www.fingerlakesaikido.com/) free of charge!
 
 # Announcements
 
-- ** Fri. 02/03/17:** The gymnastics room is unavailable this Saturday (Feb 4), so class is
+- **Fri. 02/03/17:** The gymnastics room is unavailable this Saturday (Feb 4), so class is
 cancelled for that day. We'll train on Sunday at 12:30, as usual.
 - **Thu. 01/26/17:** We're now fully back on our normal schedule:
   Tue/Thu: 7:00-8:30pm
