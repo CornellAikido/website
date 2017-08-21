@@ -29,9 +29,7 @@ Aikido](http://www.fingerlakesaikido.com/) free of charge!
 
 # Announcements
 
-- **08/21:** A few updates:
-  - Beginners class will start on Thursday, September 14th, at 7:00pm
-  - Our annual demo will be September 12th, at 7:45pm
-  - Visit us at Club Fest September 10th!
-  - We're starting to transition from summer hours back to normal hours. This week, we'll meet Tue/Thu: 6:30-8:00pm
-- **06/17:** We're now on summer hours - Tue/Thu: 5:00-6:30pm
+- We're starting to transition from summer hours back to normal hours. This week, we'll meet Tue/Thu: 6:30-8:00pm
+- Visit us at Club Fest September 10th!
+- Our annual demo will be September 12th, at 7:45pm
+- Beginners class will start on Thursday, September 14th, at 7:00pm
