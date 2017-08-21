@@ -50,7 +50,7 @@ permalink: /instructors/
   </div>
   <div class="instructor-text">
     <h2>Mark Reichert</h2>
-    <div class="instructor-short-bio">4th-dan, Fukushidoin</div>
+    <div class="instructor-short-bio">4th-dan, Shidoin</div>
     <div class="instructor-short-bio">Instructor, Cornell Aikido Club</div>
     <p class="instructor-intro">
       Mark Sensei has over 25 years of experience practicing Aikido and teaches
