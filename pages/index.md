@@ -10,8 +10,8 @@ every fall semester.
 
 During the school year, our practice times are:
 
-- Tuesday and Thursday 7:00 - 8:30 pm
-- Saturday and Sunday 12:30 - 2:00 pm
+- <s>Tuesday and Thursday 7:00 - 8:30 pm</s> 6:30 - 8:00pm this week
+- <s>Saturday and Sunday 12:30 - 2:00 pm</s> No weekend practice over the summer
 
 However, please check the [announcements](#announcements) below for irregular hours and
 schedule changes.
@@ -29,5 +29,5 @@ Aikido](http://www.fingerlakesaikido.com/) free of charge!
 
 # Announcements
 
-- **08/21:** We're starting to transition from summer hours back to normal hours. This week, we'll meet Tue/Thu: 6:30-7:00pm
+- **08/21:** We're starting to transition from summer hours back to normal hours. This week, we'll meet Tue/Thu: 6:30-8:00pm
 - **06/17:** We're now on summer hours - Tue/Thu: 5:00-6:30pm
