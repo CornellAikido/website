@@ -10,8 +10,8 @@ every fall semester.
 
 During the school year, our practice times are:
 
-- Tuesday and Thursday <s>7:00 - 8:30 pm</s> **6:30 - 8:00pm, this week**
-- Saturday and Sunday <s>12:30 - 2:00 pm</s> **No weekend practice over the summer**
+- Tuesday and Thursday 7:00 - 8:30 pm
+- Saturday and Sunday <s>12:30 - 2:00 pm</s> **Weekend practice resumes from September 9th**
 
 However, please check the [announcements](#announcements) below for irregular hours and
 schedule changes.
@@ -29,7 +29,7 @@ Aikido](http://www.fingerlakesaikido.com/) free of charge!
 
 # Announcements
 
-- We're starting to transition from summer hours back to normal hours. This week, we'll meet Tue/Thu: 6:30-8:00pm
+- This week, we'll meet Tue/Thu: 7:00-8:30pm
 - Visit us at Club Fest September 10th!
 - Our annual demo will be September 12th, at 7:45pm
 - Beginners class will start on Thursday, September 14th, at 7:00pm
