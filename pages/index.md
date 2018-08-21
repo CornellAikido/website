@@ -29,4 +29,6 @@ Aikido](http://www.fingerlakesaikido.com/) free of charge!
 
 # Announcements
 
-- There will be no practice on Saturday, November 11th.
+- Our annual demo will be Tuesday, Sept 11th
+- Beginners' class starts Thursday, Sept 13th and runs until Oct 11th, on Tue/Thu from 7-8pm, plus a review class on Saturdays at 12:30.
+- Our fall seminar will be Oct 13-14, with guest instructor Dolita Cathcart, chief instructor of Harvard Aikikai.
