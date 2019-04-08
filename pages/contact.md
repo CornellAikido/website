@@ -1,5 +1,8 @@
 ---
 permalink: /contact/
+layout: page
+title: Contact Us
+menuOption: 50
 ---
 
 ### Yukiko Katagiri

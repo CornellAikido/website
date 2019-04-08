@@ -1,5 +1,8 @@
 ---
 permalink: /instructors/
+layout: page
+title: Instructors
+menuOption: 40
 ---
 
 <div class="instructor">

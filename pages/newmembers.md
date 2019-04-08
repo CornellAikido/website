@@ -1,5 +1,8 @@
 ---
 permalink: /new-members/
+layout: page
+title: FAQs
+menuOption: 30
 ---
 
 # New Member FAQ

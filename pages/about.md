@@ -1,5 +1,8 @@
 ---
 permalink: /about/
+layout: page
+title: About Aikido at Cornell
+menuOption: 20
 ---
 
 ## What is Aikido?
@@ -10,15 +13,14 @@ practice both against unarmed opponents and with traditional martial arts weapon
 
 Aikido can be roughly translated as "the way of unifying life energy."
 
-[Click here](http://www.usaikifed.com/about/aikido/) for a more in-depth
+[Click here](http://www.usaikifed.com/about/aikido/){:target="_blank"} for a more in-depth
 explanation of the history and principles of Aikido.
 
 ## About the Club
-The Cornell Aikido Club is a non-credit university sports club. We are affiliated with
+Founded in 1980, the Cornell Aikido Club is a non-credit university sports club. We are affiliated with
 the [United States Aikido Federation (USAF)](http://www.usaikifed.com/){:target="_blank"}
-and [Hombu Dojo](http://www.aikikai.or.jp/eng/index.html) (international Aikido
+and [Aikikai Hombu Dojo](http://www.aikikai.or.jp/eng/index.html){:target="_blank"} (international Aikido
 headquarters) in Tokyo, Japan.
 
 ## About this Website
-This website was designed by [Pine Wu](https://github.com/octref)
-and [David Udelson](https://github.com/dudelson). It is maintained by Mark Reichert.
+This website was designed by [Pine Wu](https://github.com/octref), [David Udelson](https://github.com/dudelson), and Mark Reichert.

@@ -1,17 +1,43 @@
 # Site settings
-title: Cornell Aikido Club
-baseurl: ""
 
-# Build settings
-permalink: pretty
+######
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+#permalink:           pretty
+#relative_permalinks: true
 
-# Default
-defaults:
-  -
-    scope:
-      path: "pages"
-    values:
-      layout: "default"
+# Setup
+title:               Cornell Aikido Club
+email:               markr14850@yahoo.com
+tagline:             Aikido training in Ithaca, NY
+description:         Aikido training in Ithaca, NY
+url:                 http://cornellaikidoclub.com
+baseurl:             ''
+#paginate:            5
+#paginate_path:       "page:num"
 
-sass:
-  sass_dir: "_sass"
+include: ['pages', 'assets', '_posts']
+
+google_analytics:    UA-114428396-2
+
+# About/contact
+author:
+  name:              Mark Reichert
+  url:               http://cornellaikidoclub.com
+  email:             markr14850@yahoo.com
+
+# Custom vars
+version:             1.0.0
+
+# Fix build error
+github: [metadata]
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+#  - jekyll-paginate
+exclude:
+  - Gemfile
+  - Gemfile.lock
+

@@ -1,9 +1,13 @@
 ---
 permalink: /links/
+layout: page
+title: Links
+menuOption: 80
 ---
 
 # Aikido Information
 
+- [O-Sensei’s rules for aikido training](/aikido-rules/)
 - [Seminar/training camp checklist](/checklist/)
 - [Aikido World Headquarters](http://www.aikikai.or.jp/eng/index.html)
 - [United States Aikido Federation](http://www.usaikifed.com/)

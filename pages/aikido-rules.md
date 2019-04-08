@@ -1,5 +1,7 @@
 ---
 permalink: /aikido-rules/
+layout: page
+title: Rules of practice
 ---
 
 # O-Sensei's Rules for Training Aikido

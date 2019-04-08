@@ -1,5 +1,7 @@
 ---
 permalink: /checklist/
+layout: page
+title: Seminar Travel Checklist
 ---
 
 # Seminar Checklist
