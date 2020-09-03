@@ -3,6 +3,12 @@ layout: default
 title: Home
 ---
 
+# Welcome
+Due to the coronavirus, we're currently not having any in-person training. This may change later in the semester.
+
+We are having some zoom classes to introduce people to training - doing things that are possible solo, in the spaces that people have at home. Feel free to email us about connecting for these sessions.
+
+<!--
 # Welcome!
 The Cornell Aikido Club offers Aikido instruction and training for all levels.
 New members are accepted year-round! If you are new to Aikido or just want to
@@ -35,6 +41,7 @@ Aikido](http://www.fingerlakesaikido.com/){:target="_blank”}, free of charge.
   </h2>
   <span class="post-date">{{ site.posts.first.date | date_to_string }}</span>
   {{ site.posts.first.content | strip_html | truncatewords:30 }}
+-->
 
 
 <br/>
