@@ -19,8 +19,7 @@ every fall semester.
 During the school year, our regular practice times are:
 
 - Tuesday and Thursday 7:00 - 8:30 pm
-- Saturday 12:00 - 1:30 pm<s></s>
-- Sunday 12:30 - 2:00 pm<s></s>
+- Saturday and Sunday 12:30 - 2:00 pm<s></s>
 
 Please check the [announcements]({{ site.url }}/announcements) page for irregular hours and schedule changes - particularly over the summer and around university breaks.
 
