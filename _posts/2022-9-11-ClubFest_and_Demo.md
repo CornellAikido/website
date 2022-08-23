@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Aikido Demo - September 19 2019
-date:   2022-8-22 1:00:00 -0600
+date:   2022-8-22 2:00:00 -0600
 #categories: demo
 ---
 
