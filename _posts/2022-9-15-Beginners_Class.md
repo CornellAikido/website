@@ -8,8 +8,8 @@ date:   2022-8-22 1:00:00 -0600
 Starting September 15, the aikido club will run a four week beginners class.
 
 The schedule will be:
-Tue/Thu - 7:00-8:00pm
-Sat - 12:30-2pm
+* Tue/Thu - 7:00-8:00pm
+* Sat - 12:30-2pm
 
 Class will be held in the gynmastics room on the second floor of Teagle Hall.
 
