@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Aikido Regular Class Resumes
-date:   2022-8-22 19:00:00 -0600
+date:   2022-8-22 1:00:00 -0600
 #categories: schedule
 ---
 
