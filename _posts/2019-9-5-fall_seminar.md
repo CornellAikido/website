@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Fall Seminar - October 18/19 2019
-date:   2019-9-5 9:00:00 -0600
+date:   3019-9-5 9:00:00 -0600
 #categories: seminar
 ---
 
