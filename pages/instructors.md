@@ -104,3 +104,15 @@ menuOption: 40
     </p>
   </div>
 </div>
+
+<div class="instructor">
+  <div class="instructor-text">
+    <h2>Mike Lamont</h2>
+    <div class="instructor-short-bio">3rd-dan</div>
+    <div class="instructor-short-bio">Instructor, Cornell Aikido Club</div>
+    <p class="instructor-intro">
+      Mike Sensei first started aikido in 1993 at Okanagan Aikikai in Kelowna, Canada, where he later had the privilege of being uchideshi to Kawahara Sensei in 2003.
+	  Although his study was primarily under Kawahara Sensei, he has studied aikido at many dojos across the world including founding SFU AIkikai in Vancouver, Canada; and training at Ottawa Aikikai, Canada; UKA in London, UK; and Aikido Yoshinkai NSW in Sydney, Australia. He has been training with Bieri Sensei and Katagiri Sensei at Cornell since 2011.
+    </p>
+  </div>
+</div>
