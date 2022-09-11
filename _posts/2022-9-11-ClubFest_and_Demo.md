@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ClubFest & Aikido Demo - September 11 & 13 2022
-date:   2022-8-22 2:00:00 -0600
+date:   2022-9-10 2:00:00 -0600
 #categories: demo
 ---
 
