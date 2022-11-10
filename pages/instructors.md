@@ -106,6 +106,9 @@ menuOption: 40
 </div>
 
 <div class="instructor">
+  <div class="instructor-image">
+    <img src="../assets/img/instructor/Mike.png" height="300" width="300">
+  </div>
   <div class="instructor-text">
     <h2>Mike Lamont</h2>
     <div class="instructor-short-bio">3rd-dan</div>
