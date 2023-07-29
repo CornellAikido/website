@@ -10,8 +10,7 @@ Email: yk43 at cornell dot edu
 Phone: 607-257-7930
 
 ### Mark Reichert
-Email: markr at lightlink dot com
-Phone: 607-257-7658
+Email: markr14850 at gmail dot com
 Email Mark if you want to subscribe to our mailing list.
 
 ### Webmaster
