@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Spring Seminar - April 20/21 2019
-date:   3019-3-1 9:00:00 -0600
+date:   2019-3-1 9:00:00 -0600
 #categories: seminar
 ---
 

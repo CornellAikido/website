@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Aikido Beginners Class - September 21 - Oct 24, 2019
-date:   3019-9-5 10:30:00 -0600
+date:   2019-9-5 10:30:00 -0600
 #categories: beginners
 ---
 
