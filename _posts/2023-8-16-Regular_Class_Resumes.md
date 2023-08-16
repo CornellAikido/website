@@ -13,4 +13,5 @@ Starting August 22, we start are regular class times on Tuesday and Thursday, Sa
 Class will be held in the gynmastics room on the second floor of Teagle Hall.
 
 We look forward to welcoming back all our members and meeting new students interested in trying out our martial art!
+We will be posting soon with details about our beginners class, which will start soon into the Fall semester.
 
