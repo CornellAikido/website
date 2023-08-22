@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Aikido at the ClubFests
-date:   2023-8-21 1:00:00 -0600
+date:   2023-8-21 4:00:00 -0600
 #categories: demo
 ---
 
