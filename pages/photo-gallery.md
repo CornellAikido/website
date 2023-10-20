@@ -5,4 +5,4 @@ title: Photo Gallery
 menuOption: 90
 ---
 
-Coming soon!
+![2023 Fall Seminar group photo](\assets\img\gallery\2022-Fall-Seminar-group-photo.jpg" "2022 Fall Seminar")
