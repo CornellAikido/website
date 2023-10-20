@@ -18,15 +18,20 @@ every fall semester.
 
 During the school year, our regular practice times are:
 
-- Tuesday and Thursday 7:00 - 8:30 pm
-- Saturday and Sunday 12:30 - 2:00 pm<s></s>
+- Tuesday 7:00-8:30pm, Bieri Sensei, 7th dan, Shihan
+- Thursday 7:00-8:30pm, Katagiri Sensei, 7th dan, Shihan
+- Saturday 12:30-2:00pm, Lamont Sensei, 3rd dan (ukemi and weapons)
+- Sunday 12:30-2:00pm, Hinrichs Sensei, 2nd dan, and Cunha Sensei, 3rd dan
 
 Please check the [announcements]({{ site.url }}/announcements) page for irregular hours and schedule changes - particularly over the summer and around university breaks.
 
 Classes are held in [Teagle Hall](https://www.cornell.edu/about/maps/?loc=Teagle%20Hall){:target="_blank"}'s
-gymnasium on the second floor. Please arrive 5 minutes early to help set up the
+gymnasium on the second floor.
+
+<!-- Please arrive 5 minutes early to help set up the
 room and warm up. If you arrive even earlier and see the gymnastics team is
 still using the gymnasium, please wait outside for them to finish.
+-->
 
 Additionally, club members are eligible for classes at [Finger Lakes
 Aikido](http://www.fingerlakesaikido.com/){:target="_blank”}, free of charge.
