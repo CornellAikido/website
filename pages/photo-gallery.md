@@ -5,4 +5,8 @@ title: Photo Gallery
 menuOption: 90
 ---
 
-![2023 Fall Seminar group photo](\assets\img\gallery\2022-Fall-Seminar-group-photo.jpg" "2022 Fall Seminar")
+<figure>
+    <img src="/assets/img/gallery/2022-Fall-Seminar-group-photo.jpg"
+         alt="2022 Fall Seminar, group photo">
+    <figcaption>Cornell Aikido Club's 2022 Fall Seminar.</figcaption>
+</figure>
