@@ -23,7 +23,7 @@ During the school year, our regular practice times are:
 - Saturday 12:30-2:00pm, Lamont Sensei, 3rd dan (ukemi and weapons)
 - Sunday 12:30-2:00pm, Hinrichs Sensei, 2nd dan, and Cunha Sensei, 3rd dan
 
-Please check the [announcements]({{ site.url }}/announcements) page for irregular hours and schedule changes - particularly over the summer and around university breaks.
+Please check the [announcements]({{ site.url }}/announcements) page for schedule changes over the summer and university breaks.
 
 Classes are held in [Teagle Hall](https://www.cornell.edu/about/maps/?loc=Teagle%20Hall){:target="_blank"}'s
 gymnasium on the second floor.
