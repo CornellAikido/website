@@ -25,7 +25,7 @@ menuOption: 90
 
 <figure>
 	<video width="640" height="480" controls>
-		<source src="2022-CornellAikidoClipsDemo.mov" type="video/mov">
+		<source src="/assets/img/gallery/2022-CornellAikidoClipsDemo.mov" type="video/mp4">
 	</video>
 	<figcaption>Clips from Cornell Aikido Club's 2022 Fall Demo.</figcaption>
 </figure>
