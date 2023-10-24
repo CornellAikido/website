@@ -32,11 +32,15 @@ menuOption: 90
 	<figcaption>Cornell Aikido Club's 2023 Fall Seminar, ???.</figcaption>
 </figure>
 
+---
+
 <figure>
 	<img src="/assets/img/gallery/2023-ClubFest.jpg"
 		alt="2023 ClubFest">
 	<figcaption>Cornell Aikido Club's at 2023 ClubFest.</figcaption>
 </figure>
+
+---
 
 <figure>
 	<img src="/assets/img/gallery/2023-Spring-Seminar-Cong.jpg"
@@ -44,11 +48,15 @@ menuOption: 90
 	<figcaption>Cornell Aikido Club's 2023 Spring Seminar with Cong Sensei, Summit View Aikido.</figcaption>
 </figure>
 
+---
+
 <figure>
 	<img src="/assets/img/gallery/2022-Fall-Seminar-group-photo.jpg"
 		alt="2022 Fall Seminar, group photo">
 	<figcaption>Cornell Aikido Club's 2022 Fall Seminar.</figcaption>
 </figure>
+
+---
 
 <figure>
 	<video width="640" height="480" controls>
