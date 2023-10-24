@@ -22,5 +22,7 @@ the [United States Aikido Federation (USAF)](http://www.usaikifed.com/){:target=
 and [Aikikai Hombu Dojo](http://www.aikikai.or.jp/eng/index.html){:target="_blank"} (international Aikido
 headquarters) in Tokyo, Japan.
 
+This organization is a registered student organization of Cornell University.
+
 ## About this Website
 This website was designed by [Pine Wu](https://github.com/octref), [David Udelson](https://github.com/dudelson), and Mark Reichert.
