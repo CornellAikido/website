@@ -60,5 +60,7 @@ Aikido](http://www.fingerlakesaikido.com/){:target="_blank”}.
 
 <br/>
 <small>
+This organization is a registered student organization of Cornell University.
+
 This page last updated: {{ site.time | date: '%-d %B %Y' }}
 </small>
