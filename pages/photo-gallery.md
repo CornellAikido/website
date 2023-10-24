@@ -5,6 +5,33 @@ title: Photo Gallery
 menuOption: 90
 ---
 
+
+
+
+<figure>
+	<img src="/assets/img/gallery/2023-Fall-Seminar-Group-Photo.jpg"
+		alt="2023 Fall Seminar Group Photo">
+	<figcaption>Cornell Aikido Club's 2023 Fall Seminar, group photo.</figcaption>
+</figure>
+
+<figure>
+	<img src="/assets/img/gallery/2023-Fall-Seminar-Flowers.jpg"
+		alt="2023 Fall Seminar Group Photo">
+	<figcaption>Cornell Aikido Club's 2023 Fall Seminar, kamiza.</figcaption>
+</figure>
+
+<figure>
+	<img src="/assets/img/gallery/2023-Fall-Seminar-Action.jpg"
+		alt="2023 Fall Seminar Group Photo">
+	<figcaption>Cornell Aikido Club's 2023 Fall Seminar, training.</figcaption>
+</figure>
+
+<figure>
+	<img src="/assets/img/gallery/2023-Fall-Seminar-Group-Photo-Goofy.jpg"
+		alt="2023 Fall Seminar Group Photo">
+	<figcaption>Cornell Aikido Club's 2023 Fall Seminar, ???.</figcaption>
+</figure>
+
 <figure>
 	<img src="/assets/img/gallery/2023-ClubFest.jpg"
 		alt="2023 ClubFest">
