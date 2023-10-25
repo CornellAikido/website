@@ -29,7 +29,7 @@ menuOption: 90
 <figure>
 	<img src="/assets/img/gallery/2023-Fall-Seminar-Group-Photo-Goofy.jpg"
 		alt="2023 Fall Seminar Group Photo">
-	<figcaption>Cornell Aikido Club's 2023 Fall Seminar, ???.</figcaption>
+	<figcaption>Cornell Aikido Club's 2023 Fall Seminar, ???</figcaption>
 </figure>
 
 ---
@@ -37,7 +37,7 @@ menuOption: 90
 <figure>
 	<img src="/assets/img/gallery/2023-ClubFest.jpg"
 		alt="2023 ClubFest">
-	<figcaption>Cornell Aikido Club's at 2023 ClubFest.</figcaption>
+	<figcaption>Cornell Aikido Club officers at 2023 ClubFest.</figcaption>
 </figure>
 
 ---
