@@ -1,22 +1,19 @@
 ---
 layout: post
-title:  Fall Seminar - October 22 2023
-date:   2023-10-20 9:00:00 -0600
+title:  Winter Schedule - December 12 2023
+date:   2023-12-11 9:00:00 -0600
 #categories: seminar
 ---
 
-On October 22nd, we will have a beginners-focused seminar with three of our instructors.
-This will be held in our regular training space, Gymnastics Room (2F), Teagle Hall, Cornell University.
-
-Students can take part in all three classes or attend only those that their schedule allows.
-It's a long day, so sitting out for a bit to watch and catch your breath is acceptable.
-
-Visitors are encouraged to attend and/or watch, however no minors from outside Cornell cannot participate on the mats.
-
-The schedule will be:
+Our winter schedule will change due to Teagle Hall's building hours:
 
 **Sunday, Oct. 22**
   * 12:30-1:30pm - Lamont Sensei, 3rd dan (ukemi training)
   * 1:45-2:45pm - Katagiri Sensei, 7th dan Shihan
   * 3:00-4:00pm - Hinrichs Sensei, 2nd dan (tanto techniques)
   * 4pm - Refreshments
+ - Tu, 12/12, & Th, 12/14:  4:30 - 6:00pm
+ - Sa, 12/16, & Su, 12/17:  No Class
+ - Tu, 12/19, & Th, 12/21:  4:30 - 6:00 pm
+
+Teagle is closed from 12/23. Will will post the January schedule once we know Teagle Hall's hours.
