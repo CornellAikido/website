@@ -2,7 +2,7 @@
 layout: post
 title:  Winter Schedule - December 12 2023
 date:   2023-12-11 9:00:00 -0600
-#categories: seminar
+#categories: schedule
 ---
 
 Our winter schedule will change due to Teagle Hall's building hours:
