@@ -5,8 +5,13 @@ title: Photo Gallery
 menuOption: 90
 ---
 
+<figure>
+	<img src="/assets/img/gallery/2023-FLA-End-Of-Year-Group.jpg"
+		alt="2023 Finger Lakes Aikido End-of-Year Practice, group photo">
+	<figcaption>Finger Lakes Aikido's 2023 End-of-Year Practice.</figcaption>
+</figure>
 
-
+---
 
 <figure>
 	<img src="/assets/img/gallery/2023-Fall-Seminar-Group-Photo.jpg"
