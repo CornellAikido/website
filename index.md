@@ -25,9 +25,13 @@ During the school year, our regular practice times are:
 | Bieri Sensei<br>7th dan, Shihan 	| Katagiri Sensei<br>7th dan, Shihan 	| Lamont Sensei<br>3rd dan<br>(ukemi and weapons) 	| Hinrichs Sensei<br>2nd dan,<br>Cunha Sensei<br>3rd dan 	|
 -->
 
+<!--
+- Saturday 12:30-2:00pm - Lamont Sensei, 5th dan (ukemi and weapons)
+-->
+
 - Tuesday 7:00-8:30pm - Bieri Sensei, 7th dan, Shihan
 - Thursday 7:00-8:30pm - Katagiri Sensei, 7th dan, Shihan
-- Saturday 12:30-2:00pm - Lamont Sensei, 3rd dan (ukemi and weapons)
+- Saturday 12:30-2:00pm - Reichert Sensei, 5th dan
 - Sunday 12:30-2:00pm - Hinrichs Sensei, 2nd dan, and Cunha Sensei, 3rd dan
 
 Please check [announcements]({{ site.url }}/announcements) for schedule changes over the summer and university breaks.
