@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Spring Schedule - January 23 2024
+title:  Spring Schedule - Starts January 23 2024
 date:   2024-01-21 9:00:00 -0600
 #categories: schedule
 ---
