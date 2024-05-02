@@ -17,7 +17,7 @@ menuOption: 40
       Yukiko Katagiri Sensei set out on her Aikido journey at Hombu Dojo in 1978.
       Since then she has trained under many Master Teachers of Aikido, both in
       Japan and in the US. She began teaching as Chief Instructor at Cornell
-      Aikido Club in 1985 . Currently she holds the rank of <i>rokudan</i> and
+      Aikido Club in 1985 . Currently she holds the rank of <i>shichidan</i> and
       the title of <i>Shihan</i> of the United States Aikido Federation and the
       International Aikido Federation. Katagiri Sensei also teaches Japanese
       language courses at Cornell University.
