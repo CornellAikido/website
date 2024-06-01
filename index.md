@@ -26,7 +26,7 @@ During the school year, our regular practice times are:
 -->
 
 
-During the summer, our practice times are:
+We continue to train throughout the summer:
 
 - Tuesday, Thursday 4:45-6:15pm - Teagle Hall
 - Sunday 12:30-2:00pm - Weapons (outdoors, grassy area SW Weill Hall)
