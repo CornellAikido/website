@@ -16,7 +16,20 @@ New members are accepted year-round! If you are new to Aikido or just want to
 brush up on the basics, the club offers a beginner's class at the beginning of
 every fall semester.
 
+<!--
 During the school year, our regular practice times are:
+
+- Tuesday 7:00-8:30pm - Bieri Sensei, 7th dan, Shihan
+- Thursday 7:00-8:30pm - Katagiri Sensei, 7th dan, Shihan
+- Saturday 12:30-2:00pm - Reichert Sensei, 5th dan
+- Sunday 12:30-2:00pm - Hinrichs Sensei, 2nd dan, and Cunha Sensei, 3rd dan
+-->
+
+
+During the summer, our practice times are:
+
+- Tuesday, Thursday 4:45-6:15pm - Teagle Hall
+- Sunday 12:30-2:00pm - Weapons (outdoors, grassy area SW Weill Hall)
 
 <!--
 | Tuesday 	| Thursday 	| Saturday 	| Sunday 	|
@@ -24,15 +37,6 @@ During the school year, our regular practice times are:
 | 7-8:30pm 	| 7-8:30pm 	| 12:30-2pm 	| 12:30-2pm 	|
 | Bieri Sensei<br>7th dan, Shihan 	| Katagiri Sensei<br>7th dan, Shihan 	| Lamont Sensei<br>3rd dan<br>(ukemi and weapons) 	| Hinrichs Sensei<br>2nd dan,<br>Cunha Sensei<br>3rd dan 	|
 -->
-
-<!--
-- Saturday 12:30-2:00pm - Lamont Sensei, 5th dan (ukemi and weapons)
--->
-
-- Tuesday 7:00-8:30pm - Bieri Sensei, 7th dan, Shihan
-- Thursday 7:00-8:30pm - Katagiri Sensei, 7th dan, Shihan
-- Saturday 12:30-2:00pm - Reichert Sensei, 5th dan
-- Sunday 12:30-2:00pm - Hinrichs Sensei, 2nd dan, and Cunha Sensei, 3rd dan
 
 Please check [announcements]({{ site.url }}/announcements) for schedule changes over the summer and university breaks.
 
@@ -49,8 +53,11 @@ Additionally, club members are eligible for classes at [Finger Lakes
 Aikido](http://www.fingerlakesaikido.com/){:target="_blank”}, free of charge.
 -->
 
-Additionally, club members are eligible for classes at [Finger Lakes
-Aikido](http://www.fingerlakesaikido.com/){:target="_blank”}.
+Additionally, club members are eligible for classes at Finger Lakes
+Aikido with Bieri Sensei, 7th dan, Shihan.
+
+- Monday, Friday 6-8pm
+- [Henry Saint Johns Building](https://maps.app.goo.gl/Dj3vLVkNUGsm6b5z7){:target="_blank"} Gymnasium (301 S Geneva St, Ithaca, NY)
 
 ---
 
