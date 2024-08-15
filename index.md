@@ -31,6 +31,15 @@ We continue to train throughout the summer:
 - Tuesday, Thursday 4:45-6:15pm - Teagle Hall
 - Sunday 12:30-2:00pm - Weapons (outdoors, grassy area SW Weill Hall)
 
+
+Our regular practice schedule starts August 27th:
+
+- Tuesday 7:00-8:30pm
+- Thursday 7:00-8:30pm
+- Saturday 12:30-2:00pm - ukemi and weapons
+- Sunday 12:30-2:00pm
+
+
 <!--
 | Tuesday 	| Thursday 	| Saturday 	| Sunday 	|
 |:---:	|:---:	|:---:	|:---:	|
