@@ -16,23 +16,23 @@ New members are accepted year-round! If you are new to Aikido or just want to
 brush up on the basics, the club offers a beginner's class at the beginning of
 every fall semester.
 
-<!--
+
 During the school year, our regular practice times are:
 
 - Tuesday 7:00-8:30pm - Bieri Sensei, 7th dan, Shihan
 - Thursday 7:00-8:30pm - Katagiri Sensei, 7th dan, Shihan
-- Saturday 12:30-2:00pm - Reichert Sensei, 5th dan
+- Saturday 12:30-2:00pm - Lamont Sensei, 3rd dan
 - Sunday 12:30-2:00pm - Hinrichs Sensei, 2nd dan, and Cunha Sensei, 3rd dan
--->
 
 
+<!--
 We continue to train throughout the summer:
 
 - Tuesday, Thursday 4:45-6:15pm - Teagle Hall
 - Sunday 12:30-2:00pm - Weapons (outdoors, grassy area SW Weill Hall)
 
 
-Our regular practice schedule starts August 27th:
+Our training schedule is:
 
 - Tuesday 7:00-8:30pm
 - Thursday 7:00-8:30pm
