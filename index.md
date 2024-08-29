@@ -68,6 +68,10 @@ Aikido with Bieri Sensei, 7th dan, Shihan.
 - Monday, Friday 6-8pm
 - [Henry Saint Johns Building](https://maps.app.goo.gl/Dj3vLVkNUGsm6b5z7){:target="_blank"} Gymnasium (301 S Geneva St, Ithaca, NY)
 
+
+The Cornell Campus Groups waiver form can be found
+[here](https://cornell.campusgroups.com/campusactivities/survey?survey_uid=23d34bec-1e8b-11ef-aaa7-0a80ef5ee5f9).
+
 ---
 
 # Most recent announcement…
