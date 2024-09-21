@@ -73,7 +73,7 @@ menuOption: 40
   </div>
   <div class="instructor-text">
     <h2>TJ Hinrichs</h2>
-    <div class="instructor-short-bio">2nd-dan</div>
+    <div class="instructor-short-bio">3rd-dan</div>
     <div class="instructor-short-bio">Instructor, Cornell Aikido Club</div>
     <p class="instructor-intro">
       TJ Hinrichs Sensei has been practicing Aikido since 1985. She completed most
