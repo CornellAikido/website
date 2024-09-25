@@ -111,7 +111,7 @@ menuOption: 40
   </div>
   <div class="instructor-text">
     <h2>Mike Lamont</h2>
-    <div class="instructor-short-bio">3rd-dan</div>
+    <div class="instructor-short-bio">3rd-dan, Fuku-shidoin</div>
     <div class="instructor-short-bio">Instructor, Cornell Aikido Club</div>
     <p class="instructor-intro">
       Mike Sensei first started aikido in 1993 at Okanagan Aikikai in Kelowna, Canada, where he later had the privilege of being uchideshi to Kawahara Sensei in 2003.
