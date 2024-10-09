@@ -5,7 +5,7 @@ date:   2024-10-9 1:00:00 -0600
 #categories: schedule
 ---
 
-Fall break is coming up, and Teagle Hall building hours will change. Luckily, this will only affect onbe of our classes:
+Fall break is coming up, and Teagle Hall building hours will change. Luckily, this will only affect one of our classes:
 
  - 10/10 Th:  7pm (no change)
  - 10/12 Sa:  12:30pm (no change)
