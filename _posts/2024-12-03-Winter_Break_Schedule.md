@@ -11,7 +11,7 @@ Up to and including Sunday Dec. 15th is on our regular schedule.
  - Up to 12/15 Su: No changes
  - 12/17 Tu:  4:45pm (building closes at 5pm)
  - 12/19 Th:  4:45pm (building closes at 5pm)
- - Teagle Hall closed
+ - Teagle Hall closed for the year
 
 Keep an eye on your email and this website for any notifications on when clases start in the new year.
 
