@@ -17,6 +17,14 @@ brush up on the basics, the club offers a beginner's class at the beginning of
 every fall semester.
 
 
+We have shifted to summer hours:
+
+- Tuesday 4:45-6:15pm - Bieri Sensei, 7th dan, Shihan
+- Thursday 4:45-6:15pm - Katagiri Sensei, 7th dan, Shihan
+
+Outdoor weapons classes may also be held on Saturdays, weather permitting. E-mail for details.
+
+
 During the school year, our regular practice times are:
 
 - Tuesday 7:00-8:30pm - Bieri Sensei, 7th dan, Shihan
