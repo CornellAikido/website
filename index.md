@@ -95,6 +95,11 @@ The Cornell Campus Groups waiver form can be found
 This organization is a registered student organization of Cornell University.
 </small>
 
+With a founding principle of “... any person ... any study,” Cornell is an 
+[equal opportunity employer and educator]
+(https://hr.cornell.edu/about/workplace-rights/equal-education-and-employment-opportunity-statement).
+
+
 <small>
 This page last updated: {{ site.time | date: '%-d %B %Y' }}
 </small>
