@@ -17,9 +17,6 @@ brush up on the basics, the club offers a beginner's class at the beginning of
 every fall semester.
 
 
-All classes are held in the 2nd flood gymnastics room in Teagle Hall.
-
-
 <!--
 We have shifted to summer hours:
 
@@ -60,10 +57,10 @@ Our training schedule is:
 | Bieri Sensei<br>7th dan, Shihan 	| Katagiri Sensei<br>7th dan, Shihan 	| Lamont Sensei<br>3rd dan<br>(ukemi and weapons) 	| Hinrichs Sensei<br>2nd dan,<br>Cunha Sensei<br>3rd dan 	|
 -->
 
-Please check [announcements]({{ site.url }}/announcements) for schedule changes over university breaks.
-
 Classes are held in [Teagle Hall](https://www.cornell.edu/about/maps/?loc=Teagle%20Hall){:target="_blank"}'s
 gymnasium on the second floor.
+
+Please check [announcements]({{ site.url }}/announcements) for schedule changes over university breaks.
 
 <!--
 Please arrive 5 minutes early to help set up the
