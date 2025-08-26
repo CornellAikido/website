@@ -19,8 +19,8 @@ menuOption: 40
       Japan and in the US. She began teaching as Chief Instructor at Cornell
       Aikido Club in 1985 . Currently she holds the rank of <i>shichidan</i> and
       the title of <i>Shihan</i> of the United States Aikido Federation and the
-      International Aikido Federation. Katagiri Sensei also teaches Japanese
-      language courses at Cornell University.
+      International Aikido Federation. Katagiri Sensei recently retired as a Japanese
+      language professor at Cornell University.
     </p>
   </div>
 </div>
