@@ -21,7 +21,8 @@ After the 4 weeks, you will be welcome to join the regular Cornell Aikido Club s
 The costs is $60 for the four-week Beginners Class, no charge for the remainder of semester, and a
 free uniform for Cornell students who start in the beginners class (as long as uniform supply funding lasts).
 
-No prior experience is needed, and all fitness levels can be accommodated.That said, any prior martial arts knowledge can aid beginners in picking up Aikido techniques and concepts quickly.
+No prior experience is needed, and all fitness levels can be accommodated.
+That said, any prior martial arts knowledge can aid beginners in picking up Aikido techniques and concepts quickly.
 
 No special clothing is required, but sweatpants that cover the knees may be preferred. If you have a judo gi or similar, feel free to wear that.
 
