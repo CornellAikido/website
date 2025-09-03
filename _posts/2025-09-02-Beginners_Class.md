@@ -6,7 +6,7 @@ date:   2025-09-02 1:00:00 -0100
 ---
 
 Join us on the mats for a demo and interactive class!
-* Tueday Sept. 16th, 7:00-8:15pm
+* Tuesday Sept. 16th, 7:00-8:15pm
 
 After this, our beginners class starts:
 * Tue/Thu - 7:00-8:00pm
@@ -24,6 +24,7 @@ free uniform for Cornell students who start in the beginners class (as long as u
 No prior experience is needed, and all fitness levels can be accommodated.
 That said, any prior martial arts knowledge can aid beginners in picking up Aikido techniques and concepts quickly.
 
-No special clothing is required, but sweatpants that cover the knees may be preferred. If you have a judo gi or similar, feel free to wear that.
+No special clothing is required, but sweatpants that cover the knees may be preferred.
+If you have a judo gi or similar, feel free to wear that.
 
 Although our beginners classes starts on September 16th, new students can join in at any time!
