@@ -6,7 +6,7 @@ menuOption: 90
 ---
 
 <figure>
-	<img src="/assets/img/gallery/2025-ClubFest1.jpeg"
+	<img src="/assets/img/gallery/2025-ClubFest1.jpg"
 		alt="2025 ClubFest, Group Photo">
 	<figcaption>2025 ClubFest, Cornell Aikido Club officers and instructors.</figcaption>
 </figure>
