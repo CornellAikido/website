@@ -6,6 +6,26 @@ menuOption: 90
 ---
 
 <figure>
+	<img src="/assets/img/gallery/2025-ClubFest1.jpeg"
+		alt="2025 ClubFest, Group Photo">
+	<figcaption>2025 ClubFest, Cornell Aikido Club officers and instructors.</figcaption>
+</figure>
+
+<figure>
+	<img src="/assets/img/gallery/2025-ClubFest2.jpeg"
+		alt="2025 ClubFest, Aikido Cat">
+	<figcaption>2025 ClubFest, Sophie and Aikido Cat.</figcaption>
+</figure>
+
+<figure>
+	<img src="/assets/img/gallery/2025-ClubFest3.jpeg"
+		alt="2025 ClubFest, meeting new students">
+	<figcaption>2025 ClubFest, Meeting new students.</figcaption>
+</figure>
+
+---
+
+<figure>
 	<img src="/assets/img/gallery/2024-Ben-Test-Group.jpg"
 		alt="Group shot after FLA Ben's 4th kyu test">
 	<figcaption>Group shot after FLA Ben's 4th kyu test at Personal Best Brewing, Ithaca, NY.</figcaption>
