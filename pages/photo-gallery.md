@@ -9,7 +9,7 @@ menuOption: 90
 <figure>
 	<img src="/assets/img/gallery/2026-Spring-Seminar-Group.jpeg"
 		alt="2026 Spring Seminar, Laura Pavlick Shihan, group photo">
-	<figcaption>2026 Spring Seminar with Laura Pavlick Shihan, Litchfield Hills Aikikai.</figcaption>
+	<figcaption>2026 Spring Seminar with Laura Pavlick Shihan, Litchfield Hills Aikikai.</figcaption>
 </figure>
 
 <figure>
@@ -19,7 +19,7 @@ menuOption: 90
 </figure>
 
 <figure>
-	<img src="/assets/img/gallery/2026-Spring-Seminar-Action shot.jpeg"
+	<img src="/assets/img/gallery/2026-Spring-Seminar-Action.jpeg"
 		alt="2026 Spring Seminar, Laura Pavlick Shihan, instructing our students">
 	<figcaption>2026 Spring Seminar with Laura Jacobs Pavlick Shihan, getting personal instruction.</figcaption>
 </figure>
