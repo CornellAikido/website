@@ -3,6 +3,33 @@ permalink: /photo-gallery/
 layout: page
 title: Photo Gallery
 menuOption: 90
+
+---
+
+<figure>
+	<img src="/assets/img/gallery/2026-Spring-Seminar-Group.jpeg"
+		alt="2026 Spring Seminar, Laura Pavlick Shihan, group photo">
+	<figcaption>2026 Spring Seminar with Laura Pavlick Shihan, Litchfield Hills Aikikai.</figcaption>
+</figure>
+
+<figure>
+	<img src="/assets/img/gallery/2026-Spring-Seminar-Warmup.jpeg"
+		alt="2026 Spring Seminar, Laura Pavlick Shihan, warm-ups">
+	<figcaption>2026 Spring Seminar with Laura Jacobs Pavlick Shihan, warm-ups.</figcaption>
+</figure>
+
+<figure>
+	<img src="/assets/img/gallery/2026-Spring-Seminar-Action shot.jpeg"
+		alt="2026 Spring Seminar, Laura Pavlick Shihan, instructing our students">
+	<figcaption>2026 Spring Seminar with Laura Jacobs Pavlick Shihan, getting personal instruction.</figcaption>
+</figure>
+
+<figure>
+	<img src="/assets/img/gallery/2026-Spring-Seminar-Flowers.jpeg"
+		alt="2026 Spring Seminar, Laura Pavlick Shihan, kamiza">
+	<figcaption>2026 Spring Seminar with Laura Jacobs Pavlick Shihan, kamiza.</figcaption>
+</figure>
+
 ---
 
 <figure>
