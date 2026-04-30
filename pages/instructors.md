@@ -37,7 +37,7 @@ menuOption: 40
       Larry E. Bieri Sensei began his study of Aikido in 1971 at Hombu Dojo in
       Tokyo, Japan. For the next 16 years he received continuous instruction
       from a large number of Master Teachers, all direct students of O-Sensei.
-      While in Japan, he also practiced <a href="https://sites.google.com/site/fingerlakeskoryu/"><i>
+      While in Japan, he also practiced <a href="https://www.fingerlakesjodo.org/"><i>
       koryu bujutsu</i></a>, combative traditions passed down since the days of
       samurai warfare with bladed weapons. He continues to train in these arts
       today and this experience influences his approach to Aikido. Currently,
@@ -84,7 +84,7 @@ menuOption: 40
       Asian martial arts.
     </p>
     <p>
-      <a href="http://history.arts.cornell.edu/faculty-department-hinrichs.php">History Department Profile</a>
+      <a href="https://history.cornell.edu/tj-hinrichs">History Department Profile</a>
     </p>
   </div>
 </div>
