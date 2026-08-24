@@ -17,7 +17,7 @@ brush up on the basics, the club offers a beginner's class at the beginning of
 every fall semester.
 
 
-
+<!--
 We have shifted to summer hours:
 
 - Tuesday 4:45-6:15pm - Bieri Sensei, 7th dan, Shihan
@@ -33,9 +33,10 @@ During the school year, our regular practice times are:
 - Saturday 12:30-2:00pm - Reichert Sensei, 5th Dan, and Lamont Sensei, 3rd dan
 - Sunday 12:30-2:00pm - Hinrichs Sensei, 3rd dan, and Cunha Sensei, 3rd dan
 
-
 <!--
-During the school year, our regular practice times are:
+-->
+
+During the semester, our regular practice times are:
 
 - Tuesday 7:00-8:30pm - Bieri Sensei, 7th dan, Shihan
 - Thursday 7:00-8:30pm - Katagiri Sensei, 7th dan, Shihan
